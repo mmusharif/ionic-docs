@@ -37,3 +37,7 @@ To troubleshoot issues with the Ionic CLI, the following may be useful:
 - The `--verbose` flag prints debugging messages, which may narrow down the issue.
 - Connection issues may be due to improperly configured proxy settings. See [Using a Proxy](/docs/cli/configuring#using-a-proxy) to configure request proxying.
 - The global Ionic CLI configuration directory is `~/.ionic` on all platforms. It can safely be deleted and the Ionic CLI will repopulate it, but all configuration (including user sessions) will be lost. Configure this directory with [CLI environment variables](/docs/cli/configuration#environment-variables).
+
+
+
+Musharif Khan
